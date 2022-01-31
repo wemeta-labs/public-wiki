@@ -6,7 +6,7 @@ As with the real world, **not all plots of land are equal**. Some are located ne
 
 
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 
 
