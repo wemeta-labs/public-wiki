@@ -15,3 +15,7 @@ Critically, the Metaverse is a platform that is not tied to one app or a single 
 ‘Metaverse’ can sometimes be an overloaded term—referring both to the total collection of all digital worlds and games—while also referring to the individual worlds themselves. For instance, **all of the platforms listed** [**here on WeMeta**](https://wemeta.world) **comprise the Metaverse, while an individual game such as Decentraland, may also call itself a Metaverse**.
 
 You may already be familiar with certain implementations of the Metaverse such as World of Warcraft, Fortnite, Roblox, the Sims, or Minecraft. While these Metaverses have been enormously successful, there is a rising generation of **new Metaverses with a deeper emphasis on ownership, decentralization, and player-run economies & communities**. These ‘open’ Metaverses include, among others, Decentraland, Sandbox, Somnium Space, and Cryptovoxels.
+
+
+
+\[ [<mark style="color:purple;">Contribute to this article</mark>](https://github.com/the-metaverse/public-wiki) <mark style="color:purple;">]</mark>

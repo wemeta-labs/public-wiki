@@ -11,3 +11,7 @@ There are several examples of interoperability already—from the [MetaKey](http
 ![](<../../.gitbook/assets/image (5).png>)
 
 For more information on interoperability, check out Jon Radoff's [guide to building the Metaverse](https://medium.com/building-the-metaverse/web3-interoperability-and-the-metaverse-5b252dc39da), or [Matthew Ball's Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer).&#x20;
+
+
+
+\[ [<mark style="color:purple;">Contribute to this article</mark>](https://github.com/the-metaverse/public-wiki) <mark style="color:purple;">]</mark>

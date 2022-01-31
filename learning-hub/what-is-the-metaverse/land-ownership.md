@@ -7,3 +7,7 @@ In the Closed Metaverse, ownership of assets is also expressed through tables; h
 Open Metaverses too may exert this level of control, though many Open Metaverse games themselves run on the blockchain—preventing this kind of interference.
 
 ![Land Ownership in the Sandbox](<../../.gitbook/assets/image (6).png>)
+
+
+
+\[ [<mark style="color:purple;">Contribute to this article</mark>](https://github.com/the-metaverse/public-wiki) <mark style="color:purple;">]</mark>

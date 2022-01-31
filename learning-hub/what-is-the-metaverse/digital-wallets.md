@@ -5,3 +5,7 @@ A digital—or blockchain—wallet allows users to store and manage their Bitcoi
 This is a massive plus for ownership and censorship-resistance, however, this does add a heavy burden to users who need to guard their wallets very closely. If a user loses access to their wallet or forgets the password, there is no central authority that can assist in its recovery.
 
 Common digital wallets include [Metamask](https://metamask.io), [Coinbase](https://www.coinbase.com/wallet), and [Exodus](https://www.exodus.com). Users can also store their currencies on a physical blockchain wallet such as [Ledger](https://www.ledger.com).
+
+
+
+\[ [<mark style="color:purple;">Contribute to this article</mark>](https://github.com/the-metaverse/public-wiki) <mark style="color:purple;">]</mark>

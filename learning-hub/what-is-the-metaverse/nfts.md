@@ -7,3 +7,7 @@ Much of the next generation of the web, including the Metaverse, rely on NFTs to
 NFT communities are often defined by possession of certain community Tokens, for instance, [CryptoPunks](https://www.larvalabs.com/cryptopunks), the [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/), and [CrypToadz](https://cryptoadz.io). Some NFTs have even created entire [play-to-earn economies](https://pinayteenvestor.com/axie-infinity-philippines/) - ['Axies'](https://axieinfinity.com) like the one below, have a market cap of over a billion dollars!
 
 ![](../../.gitbook/assets/image.png)
+
+
+
+\[ [<mark style="color:purple;">Contribute to this article</mark>](https://github.com/the-metaverse/public-wiki) <mark style="color:purple;">]</mark>

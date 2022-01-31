@@ -37,3 +37,6 @@ There can't be trust without honesty. At WeMeta we strive to be honest above all
 
 There is a sea of noise out there and WeMeta aims to be a beacon of truth. We will always search for and surface data in an honest, transparent manner.
 
+
+
+In the spirit of our core values, this entire wiki is Open Source. If you are interested in contributing, please [visit our GitHub link here](https://github.com/the-metaverse/public-wiki).
