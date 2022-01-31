@@ -28,7 +28,7 @@ Finally, it can be helpful to understand which factors drive the price of Land p
 
 Once you've finished evaluating the different Metaverses in which you'd like to invest, you can hop over to our interact marketplace to find the parcel best for you. Navigate to [wemeta.world/browse ](https://wemeta.world/browse)or click the "Explore Market" button from our home page
 
-![WeMeta Homepage](<../../.gitbook/assets/image (9).png>)
+![WeMeta Homepage](<../../.gitbook/assets/image (9) (1).png>)
 
 
 
