@@ -28,7 +28,7 @@ Finally, it can be helpful to understand which factors drive the price of Land p
 
 Once you've finished evaluating the different Metaverses in which you'd like to invest, you can hop over to our interact marketplace to find the parcel best for you. Navigate to [wemeta.world/browse ](https://wemeta.world/browse)or click the "Explore Market" button from our home page
 
-![WeMeta Homepage](<../../.gitbook/assets/image (8).png>)
+![WeMeta Homepage](<../../.gitbook/assets/image (9).png>)
 
 
 
@@ -36,18 +36,20 @@ Once in our browse view, you can interact with our map to find different parcels
 
 ![Interactive Decentraland Map](<../../.gitbook/assets/image (6).png>)
 
-
-
 You can also leverage our sidebar and filters to further refine your search by price, size, and even filter for different Metaverses.
 
 ![Sidebar Filters](<../../.gitbook/assets/image (7).png>)
-
-
 
 Once you find a parcel you like, you can either click on the map or the sidebar to pull open the details for that property.
 
 ![Parcel Details](<../../.gitbook/assets/image (4).png>)
 
+Once you're ready to make a purchase, simply click 'Buy Now' (or 'Make an Offer' for properties that are not yet listed), [connect your wallet](../what-is-the-metaverse/digital-wallets.md), and complete the transaction! You'll receive a confirmation dialogue.
+
+![Confirmation Dialog](<../../.gitbook/assets/image (8).png>)
+
+After confirming your transaction, make sure to [visit your Profile Page](https://www.wemeta.world/profile/properties) to view your parcel and access additional options for managing it.&#x20;
 
 
-Once you're ready to make a purchase, simply click 'Buy Now' (or 'Make an Offer' for properties that are not yet listed), [connect your wallet](../what-is-the-metaverse/digital-wallets.md),&#x20;
+
+\[ [<mark style="color:purple;">Contribute to this article</mark>](https://github.com/the-metaverse/public-wiki) ]
