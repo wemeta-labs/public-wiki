@@ -8,7 +8,7 @@ Interoperability is **the ability for systems to exchange and make use of inform
 
 There are several examples of interoperability already—from the [MetaKey](https://themetakey.com), to the MetaPortal, to currencies across [Ethereum ](https://ethereum.org)and [Solana](https://solana.com). But the space is new, and we’re bound to see many more, very soon.
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
 For more information on interoperability, check out Jon Radoff's [guide to building the Metaverse](https://medium.com/building-the-metaverse/web3-interoperability-and-the-metaverse-5b252dc39da), or [Matthew Ball's Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer).&#x20;
 

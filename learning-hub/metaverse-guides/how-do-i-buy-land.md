@@ -8,7 +8,7 @@ Great news! You can buy Land [right here on WeMeta](https://wemeta.world). Befor
 
 To help you learn about the economy of each Metaverse, we've created a dynamic, real-time [Metaverse Analytics Portal](https://analytics.wemeta.world).&#x20;
 
-![WeMeta Metaverse Analytics Portal](<../../.gitbook/assets/image (5).png>)
+![WeMeta Metaverse Analytics Portal](<../../.gitbook/assets/image (5) (1).png>)
 
 By looking at the sales activity, user counts, volume, and market cap behavior each Metaverse you can start to paint a picture about which Metaverse is right for you. For another 'at a glance' view, you can also visit our [Leaderboards](https://wemeta.world/leaderboards/lands) - which display the current top Metaverses, purchased Lands, Owners, and Communities.
 
@@ -42,7 +42,7 @@ You can also leverage our sidebar and filters to further refine your search by p
 
 Once you find a parcel you like, you can either click on the map or the sidebar to pull open the details for that property.
 
-![Parcel Details](<../../.gitbook/assets/image (4).png>)
+![Parcel Details](<../../.gitbook/assets/image (4) (1).png>)
 
 Once you're ready to make a purchase, simply click 'Buy Now' (or 'Make an Offer' for properties that are not yet listed), [connect your wallet](../what-is-the-metaverse/digital-wallets.md), and complete the transaction! You'll receive a confirmation dialogue.
 

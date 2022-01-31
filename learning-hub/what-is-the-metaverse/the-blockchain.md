@@ -8,7 +8,7 @@ Typically, blockchains reward users for contributing to the network; whether by 
 
 The tamper-proof and distributed nature of this ledger prevents the need for banks, brokers, or other intermediaries. Prominent blockchains include [Ethereum](https://ethereum.org/en/), [Bitcoin](https://bitcoin.org/en/), and [Solana](https://solana.com)—each still fundamentally a public ledger, but with different rules of operation.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 
 
