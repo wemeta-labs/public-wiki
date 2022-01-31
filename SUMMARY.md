@@ -22,4 +22,3 @@
   * [Which Metaverse should I play?](learning-hub/metaverse-guides/which-metaverse-should-i-play.md)
   * [How do I build on Land?](learning-hub/metaverse-guides/how-do-i-build-on-land.md)
   * [What can I do with Land?](learning-hub/metaverse-guides/what-can-i-do-with-land.md)
-  * [How does the We-Estimate work?](learning-hub/metaverse-guides/how-does-the-we-estimate-work.md)
