@@ -20,7 +20,9 @@ Further, while not all Metaverses have a [finite amount of land](https://www.nif
 
 ### Location, Location, Location
 
-Much like with the real world, the location of your digital Land can matter a lot.
+Much like with the real world, the location of your digital Land can matter a lot. Metaverses have many points of interest - be they [teleporters](https://www.youtube.com/watch?v=W48kWlN51Ao), [casinos](https://www.vegascity.org/about), [landmarks](https://play.decentraland.org/?position=-106%2C-119), or even [neighborhoods](https://fortune.com/2021/12/09/snoop-dogg-rapper-metaverse-snoopverse/). Metaverses also have hot area where players congregate or throw events. Understanding these dynamics - or building a parcel to influence them yourself is important to ensure your land accrues value effectively.&#x20;
+
+Our We-Estimate takes into consideration all of these factors and more - giving you a number you can trust to assess the true value of your Land.
 
 
 
