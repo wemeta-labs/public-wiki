@@ -52,4 +52,4 @@ After confirming your transaction, make sure to [visit your Profile Page](https:
 
 
 
-\[ [<mark style="color:purple;">Contribute to this article</mark>](https://github.com/the-metaverse/public-wiki) ]
+\[ [Contribute to this article](https://github.com/the-metaverse/public-wiki) ]

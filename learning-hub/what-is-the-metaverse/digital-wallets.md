@@ -8,4 +8,4 @@ Common digital wallets include [Metamask](https://metamask.io), [Coinbase](https
 
 
 
-\[ [<mark style="color:purple;">Contribute to this article</mark>](https://github.com/the-metaverse/public-wiki) ]
+\[ [Contribute to this article](https://github.com/the-metaverse/public-wiki) ]

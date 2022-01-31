@@ -6,5 +6,5 @@ coverY: 0
 
 # Metaverse Guides
 
-Welcome to the WeMeta Guide Wiki! Here we've compiled a set of detailed guides to help you further understand, interact-with, and enjoy the Metaverse. If you would like to contribute a guide, [<mark style="color:purple;">please visit our repository here</mark>](https://github.com/the-metaverse/public-wiki).
+Welcome to the WeMeta Guide Wiki! Here we've compiled a set of detailed guides to help you further understand, interact-with, and enjoy the Metaverse. If you would like to contribute a guide, [please visit our repository here](https://github.com/the-metaverse/public-wiki).
 

@@ -8,4 +8,4 @@ The Open Metaverse is exciting because it provides innate mechanisms and incenti
 
 
 
-\[ [<mark style="color:purple;">Contribute to this article</mark>](https://github.com/the-metaverse/public-wiki) ]
+\[ [Contribute to this article](https://github.com/the-metaverse/public-wiki) ]

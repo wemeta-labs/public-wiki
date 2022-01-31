@@ -10,4 +10,4 @@ Open Metaverses too may exert this level of control, though many Open Metaverse 
 
 
 
-\[ [<mark style="color:purple;">Contribute to this article</mark>](https://github.com/the-metaverse/public-wiki) ]
+\[ [Contribute to this article](https://github.com/the-metaverse/public-wiki) ]

@@ -39,4 +39,4 @@ There is a sea of noise out there and WeMeta aims to be a beacon of truth. We wi
 
 
 
-In the spirit of our core values, this entire wiki is Open Source. If you are interested in contributing, please [<mark style="color:purple;">visit our GitHub link here</mark>](https://github.com/the-metaverse/public-wiki).
+In the spirit of our core values, this entire wiki is Open Source. If you are interested in contributing, please [visit our GitHub link here](https://github.com/the-metaverse/public-wiki).

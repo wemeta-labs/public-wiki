@@ -18,4 +18,4 @@ You may already be familiar with certain implementations of the Metaverse such a
 
 
 
-\[ [<mark style="color:purple;">Contribute to this article</mark>](https://github.com/the-metaverse/public-wiki) ]
+\[ [Contribute to this article](https://github.com/the-metaverse/public-wiki) ]

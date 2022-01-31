@@ -12,4 +12,4 @@ The tamper-proof and distributed nature of this ledger prevents the need for ban
 
 
 
-\[ [<mark style="color:purple;">Contribute to this article</mark>](https://github.com/the-metaverse/public-wiki) ]
+\[ [Contribute to this article](https://github.com/the-metaverse/public-wiki) ]
