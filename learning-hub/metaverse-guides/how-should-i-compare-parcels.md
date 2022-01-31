@@ -16,9 +16,11 @@ Here you can learn in real time about up & coming Metaverses by investigating th
 
 Not all Metaverses are designed the same way, and as such, the value accrual mechanics for properties will vary from world to world. Our '[which Metaverse to play](which-metaverse-should-i-play.md)' article outlines some of the larger Metaverse mechanic categories. For Platform-style Metaverses, it can be important to purchase enough adjacent property to construct a large experience. For Game-style Metaverses, it can be important to assess the game mechanics that give Land its value - and optimize your purchase around maximizing those resources accordingly. For Gallery-style Metaverses, it could be important to place your gallery in close proximity to other famous galleries to maximize your foot traffic.&#x20;
 
-Further, while not all Metaverses have a finite amount of land, some Metaverses only have a few parcels of land that haven't yet been exposed to the market. Evaluating the land supply and demand (via the tools here on WeMeta) is another great avenue to assess the future value & rarity of your land purchase.&#x20;
+Further, while not all Metaverses have a [finite amount of land](https://www.niftyisland.com), some Metaverses only have a few parcels of land that [haven't yet been exposed to the market](https://sandboxgame.gitbook.io/the-sandbox/land/buying-selling-and-renting-land/public-land-sales). Evaluating the land supply and demand (via the tools here on WeMeta) is another great avenue to assess the future value & rarity of your land purchase.&#x20;
 
 ### Location, Location, Location
+
+Much like with the real world, the location of your digital Land can matter a lot.
 
 
 
