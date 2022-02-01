@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1474314243412-cd4a79f02c6a?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMXx8ZGlnaXRhbHxlbnwwfHx8fDE2NDMyMTU0NTI&ixlib=rb-1.2.1&q=85
+cover: ../.gitbook/assets/virtual_reality.jpg
 coverY: 0
 ---
 
