@@ -8,7 +8,7 @@ Great news! You can buy Land [right here on WeMeta](https://wemeta.world). Befor
 
 To help you learn about the economy of each Metaverse, we've created a dynamic, real-time [Metaverse Analytics Portal](https://analytics.wemeta.world).&#x20;
 
-![WeMeta Metaverse Analytics Portal](<../../.gitbook/assets/image (5) (1).png>)
+![WeMeta Metaverse Analytics Portal](<../.gitbook/assets/image (5) (1).png>)
 
 By looking at the sales activity, user counts, volume, and market cap behavior each Metaverse you can start to paint a picture about which Metaverse is right for you. For another 'at a glance' view, you can also visit our [Leaderboards](https://wemeta.world/leaderboards/lands) - which display the current top Metaverses, purchased Lands, Owners, and Communities.
 
@@ -28,25 +28,25 @@ Finally, it can be helpful to understand which factors drive the price of Land p
 
 Once you've finished evaluating the different Metaverses in which you'd like to invest, you can hop over to our interact marketplace to find the parcel best for you. Navigate to [wemeta.world/browse ](https://wemeta.world/browse)or click the "Explore Market" button from our home page
 
-![WeMeta Homepage](<../../.gitbook/assets/image (9) (1) (1).png>)
+![WeMeta Homepage](<../.gitbook/assets/image (9) (1) (1).png>)
 
 
 
 Once in our browse view, you can interact with our map to find different parcels. We are continuously updating this interface with new filters so that you can find parcels near points of interest, areas of high foot traffic, or other key Metaverse features.
 
-![Interactive Decentraland Map](<../../.gitbook/assets/image (6).png>)
+![Interactive Decentraland Map](<../.gitbook/assets/image (6).png>)
 
 You can also leverage our sidebar and filters to further refine your search by price, size, and even filter for different Metaverses.
 
-![Sidebar Filters](<../../.gitbook/assets/image (7) (1).png>)
+![Sidebar Filters](<../.gitbook/assets/image (7) (1).png>)
 
 Once you find a parcel you like, you can either click on the map or the sidebar to pull open the details for that property.
 
-![Parcel Details](<../../.gitbook/assets/image (4) (1).png>)
+![Parcel Details](<../.gitbook/assets/image (4) (1).png>)
 
-Once you're ready to make a purchase, simply click 'Buy Now' (or 'Make an Offer' for properties that are not yet listed), [connect your wallet](../what-is-the-metaverse/digital-wallets.md), and complete the transaction! You'll receive a confirmation dialogue.
+Once you're ready to make a purchase, simply click 'Buy Now' (or 'Make an Offer' for properties that are not yet listed), [connect your wallet](../learning-hub/digital-wallets.md), and complete the transaction! You'll receive a confirmation dialogue.
 
-![Confirmation Dialog](<../../.gitbook/assets/image (8).png>)
+![Confirmation Dialog](<../.gitbook/assets/image (8).png>)
 
 After confirming your transaction, make sure to [visit your Profile Page](https://www.wemeta.world/profile/properties) to view your parcel and access additional options for managing it.&#x20;
 
