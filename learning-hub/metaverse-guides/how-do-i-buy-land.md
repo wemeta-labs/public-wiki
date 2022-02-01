@@ -38,7 +38,7 @@ Once in our browse view, you can interact with our map to find different parcels
 
 You can also leverage our sidebar and filters to further refine your search by price, size, and even filter for different Metaverses.
 
-![Sidebar Filters](<../../.gitbook/assets/image (7).png>)
+![Sidebar Filters](<../../.gitbook/assets/image (7) (1).png>)
 
 Once you find a parcel you like, you can either click on the map or the sidebar to pull open the details for that property.
 

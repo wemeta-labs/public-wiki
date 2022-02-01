@@ -16,7 +16,7 @@ Metaverse Events are one of the easiest ways to start attracting traffic to your
 
 [Sandbox Events](https://m.facebook.com/TheSandboxGame/events/?ref=page\_internal\&mt\_nav=0&\_rdr)
 
-
+![Metaverse Festival 2021](<../../.gitbook/assets/image (7).png>)
 
 ### Build Experiences
 
@@ -48,7 +48,7 @@ Sometimes, however, as a Land owner it can be difficult to obtain and maintain t
 
 [GrowYourBase](https://growyourbase.co)
 
-
+![The Tron Club in Somnium Space](<../../.gitbook/assets/image (11).png>)
 
 ### Rent Your Land
 
@@ -67,6 +67,8 @@ Renting your Land is another fantastic way to start generating passive income of
 ### Create an Office
 
 While many of the above suggestions have involved attracting other users to your Land, of course - you can design your Land such that you and your network are the primary users! We're seeing [many brands set up shop in the Metaverse](https://www.protocol.com/workplace/virtual-office-metaverse) - particularly on platforms like Decentraland. In fact, WeMeta itself has [a Real Estate Office in Somnium Space](https://office.wemeta.world). Building a digital presence in the Metaverse is a great way to attract more customers - and interact with your user base in a more global, decentralized way.
+
+![office.wemeta.world](../../.gitbook/assets/image.png)
 
 ### Build a Marketplace
 
