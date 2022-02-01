@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/virtual_reality.jpg
-coverY: 0
+coverY: -120.80321285140562
 ---
 
 # What is the Metaverse?
