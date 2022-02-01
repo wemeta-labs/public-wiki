@@ -3,7 +3,6 @@
 ## The Company
 
 * [What is WeMeta?](README.md)
-* [What is WeMeta?](the-company/what-is-wemeta.md)
 
 ## Learning Hub
 
