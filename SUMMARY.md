@@ -7,15 +7,15 @@
 ## Learning Hub
 
 * [What is the Metaverse?](learning-hub/what-is-the-metaverse.md)
-* [The Blockchain](learning-hub/the-blockchain.md)
-* [NFTs](learning-hub/nfts.md)
-* [Interoperability](learning-hub/interoperability.md)
-* [Open Metaverse](learning-hub/open-metaverse.md)
-* [Closed Metaverse](learning-hub/closed-metaverse.md)
-* [Digital Land](learning-hub/digital-land.md)
-* [Land Ownership](learning-hub/land-ownership.md)
-* [Digital Wallets](learning-hub/digital-wallets.md)
-* [Play-to-Earn](learning-hub/play-to-earn.md)
+* [What is the Blockchain?](learning-hub/the-blockchain.md)
+* [What are NFTs?](learning-hub/nfts.md)
+* [What is Interoperability?](learning-hub/interoperability.md)
+* [What is the Open Metaverse?](learning-hub/open-metaverse.md)
+* [What is the Closed Metaverse?](learning-hub/closed-metaverse.md)
+* [What is Digital Land?](learning-hub/digital-land.md)
+* [How does Land Ownership work?](learning-hub/land-ownership.md)
+* [What are Digital Wallets?](learning-hub/digital-wallets.md)
+* [What is Play-to-Earn?](learning-hub/play-to-earn.md)
 
 ## Metaverse Guides
 

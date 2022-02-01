@@ -1,4 +1,4 @@
-# The Blockchain
+# What is the Blockchain?
 
 A blockchain is a digitally distributed, decentralized, public ledger that lives on a network. Simply put, **the blockchain is a system of recording information in a way that makes it impossible to change, hack, or cheat the system**; blockchains are said to be tamper-proof.
 
@@ -8,7 +8,7 @@ Typically, blockchains reward users for contributing to the network; whether by 
 
 The tamper-proof and distributed nature of this ledger prevents the need for banks, brokers, or other intermediaries. Prominent blockchains include [Ethereum](https://ethereum.org/en/), [Bitcoin](https://bitcoin.org/en/), and [Solana](https://solana.com)—each still fundamentally a public ledger, but with different rules of operation.
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![The Process of Blockchain](<../.gitbook/assets/image (12).png>)
 
 
 
