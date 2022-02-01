@@ -83,3 +83,7 @@ Many brands - both digital-first and physical-first are building storefronts in 
 Last and certainly not least, you can use your Metaverse property to showcase your digital assets! Different Metaverses may offer differing levels of asset fidelity, but many Platform-style Metaverses will allow you to host your NFTs in your buildings in a cryptographically verifiable manner. Linking your space to a custom domain is a great way to easily share your portfolio with the world!
 
 ![https://piratepunks.com/](<../../.gitbook/assets/image (3).png>)
+
+
+
+\[ [Contribute to this article](https://github.com/the-metaverse/public-wiki) ]
