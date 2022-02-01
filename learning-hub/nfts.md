@@ -4,9 +4,9 @@ An NFT is a [Non-Fungible Token](https://www.investopedia.com/non-fungible-token
 
 Much of the next generation of the web, including the Metaverse, rely on NFTs to establish ownership of digital assets. **In the case of the Open Metaverse, each parcel of Land (digital real estate) is an NFT**.&#x20;
 
-NFT communities are often defined by possession of certain community Tokens, for instance, [CryptoPunks](https://www.larvalabs.com/cryptopunks), the [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/), and [CrypToadz](https://cryptoadz.io). Some NFTs have even created entire [play-to-earn economies](https://pinayteenvestor.com/axie-infinity-philippines/) - ['Axies'](https://axieinfinity.com) like the one below, have a market cap of over a billion dollars!
+NFT communities are often defined by possession of certain community Tokens, for instance, [CryptoPunks](https://www.larvalabs.com/cryptopunks), the [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/), and [CrypToadz](https://cryptoadz.io). Some NFTs have even created entire [play-to-earn economies](https://pinayteenvestor.com/axie-infinity-philippines/) - ['Axies'](https://axieinfinity.com) like the ones below, have a market cap of over a billion dollars!
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![Axies in Combat](<../.gitbook/assets/image (2).png>)
 
 
 
