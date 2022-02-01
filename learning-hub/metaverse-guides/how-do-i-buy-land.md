@@ -16,7 +16,7 @@ By looking at the sales activity, user counts, volume, and market cap behavior e
 
 After researching the economies of the Metaverse, we recommend you [visit our article](which-metaverse-should-i-play.md) [on which Metaverses to play](which-metaverse-should-i-play.md), to further learn about how the Metaverse in which you're buying Land operates. Different Metaverses offer different player and investor incentives. Some like [Sandbox ](https://www.sandbox.game/en/)serve as a platform on which to build other games and activities, while others like [League of Kingdoms](https://www.leagueofkingdoms.com) or [High Street](https://www.highstreet.market) have more pre-defined applications and uses.
 
-You can also visit our [what to do with land articles](what-can-i-do-with-land/) to learn more about how the land you intend to purchase can be used to generate revenue, create architecture, host events, and build communities.
+You can also visit our [what to do with land articles](what-can-i-do-with-land.md) to learn more about how the land you intend to purchase can be used to generate revenue, create architecture, host events, and build communities.
 
 #### Land Comparisons
 

@@ -20,5 +20,4 @@
   * [How do I buy Land?](learning-hub/metaverse-guides/how-do-i-buy-land.md)
   * [How should I compare parcels?](learning-hub/metaverse-guides/how-should-i-compare-parcels.md)
   * [Which Metaverse should I play?](learning-hub/metaverse-guides/which-metaverse-should-i-play.md)
-  * [What can I do with Land?](learning-hub/metaverse-guides/what-can-i-do-with-land/README.md)
-    * [How do I build on Land?](learning-hub/metaverse-guides/what-can-i-do-with-land/how-do-i-build-on-land.md)
+  * [What can I do with Land?](learning-hub/metaverse-guides/what-can-i-do-with-land.md)
