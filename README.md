@@ -1,42 +1,20 @@
 ---
-cover: .gitbook/assets/Wiki Banner.png
-coverY: -163.06291834002676
+cover: ../.gitbook/assets/virtual_reality.jpg
+coverY: -120.80321285140562
 ---
 
-# What is WeMeta?
+# What is the Metaverse?
 
-## Our Vision
+The 'Metaverse', a term coined in the novel [Snow Crash](https://en.wikipedia.org/wiki/Snow\_Crash) by Neal Stephenson, is **a space in which humans can participate in a shared virtual universe**. The Metaverse is the idea that there will be an interoperable virtual-reality in which humans will become avatars. The Metaverse is the new internet, an unfolding past the flat World Wide Web we've come to know. It will connect people all over the world, create a plane for building and engaging-in activities, and unleash the collective imagination and creative might of communities across the globe.
 
-We're glad you asked! WeMeta was born in early 2021 out of a need to make the Metaverse **more accessible, more useful, and more exciting for users all across the world**. We saw that users were trying to join the Metaverse - but hitting all kinds of obstacles. The price of Land was unclear, it was difficult to know the location of the Land being bought, and in many cases - folks were purchasing land without even seeing photos! At WeMeta, we've decided to change all that.
+The Metaverse can be experienced in full Virtual Reality, Augmented Reality, Mixed Reality, on the web — or anywhere in between. Unlike games or applications you may have come to experience to date, the Metaverse is persistent — that is, **the Metaverse continues to exist, evolve, and grow even when you’re offline**.
 
-WeMeta is the go-to platform for all things Metaverse. From [Community Leaderboards](https://www.wemeta.world/leaderboards), to [Activity Feeds](https://www.wemeta.world), to [buying, selling, and trading digital land](https://www.wemeta.world/browse) - our robust data insights and accessible UI makes it easier than ever to interface with the Metaverse.
+Critically, the Metaverse is a platform that is not tied to one app or a single place. Persistence, [shared standards, and interoperability](https://www.matthewball.vc/the-metaverse-primer) will allow you to visit your virtual office in the morning for work, pop-over to a virtual Paris to catch some live music for lunch, jump through a portal to your personal private island to catch up with your friends, and take a helicopter to the pilot lounge where you can find new friends to queue for the galactic battlefield.
 
-What's more - WeMeta is just getting started. We are constantly releasing new features and tools to address the growing needs of our users amidst the booming Metaverse, and we can't wait to see what the future holds.
+‘Metaverse’ can sometimes be an overloaded term—referring both to the total collection of all digital worlds and games—while also referring to the individual worlds themselves. For instance, **all of the platforms listed** [**here on WeMeta**](https://wemeta.world) **comprise the Metaverse, while an individual game such as Decentraland, may also call itself a Metaverse**.
 
-Want to get involved? [Get in touch](mailto:wemetaverse@gmail.com) or [join our Discord](https://discord.gg/pftAMVkxyU)!
-
-
-
-{% embed url="https://wemeta.world/browse" %}
-Browse Our Marketplace Now!
-{% endembed %}
-
-## Our Values
-
-We treat everyone we encounter with compassion, seeing the humanity behind their problems and experiences.
-
-### Trust
-
-WeMeta is built on trust, and that shines across our product verticals. From the data we surface, to the Metaverses we support, to our personal team culture - shared trust is first of mind for all us and all of our customers.
-
-### Honesty
-
-There can't be trust without honesty. At WeMeta we strive to be honest above all else - be that in the data we present, the partnerships we make, or with our communications both inside and outside of the team.
-
-### Data First
-
-There is a sea of noise out there and WeMeta aims to be a beacon of truth. We will always search for and surface data in an honest, transparent manner.
+You may already be familiar with certain implementations of the Metaverse such as World of Warcraft, Fortnite, Roblox, the Sims, or Minecraft. While these Metaverses have been enormously successful, there is a rising generation of **new Metaverses with a deeper emphasis on ownership, decentralization, and player-run economies & communities**. These ‘open’ Metaverses include, among others, Decentraland, Sandbox, Somnium Space, and Cryptovoxels.
 
 
 
-In the spirit of our core values, this entire wiki is Open Source. If you are interested in contributing, please [visit our GitHub link here](https://github.com/the-metaverse/public-wiki).
+\[ [Contribute to this article](https://github.com/the-metaverse/public-wiki) ]

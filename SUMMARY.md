@@ -1,12 +1,8 @@
 # Table of contents
 
-## The Company
-
-* [What is WeMeta?](README.md)
-
 ## Learning Hub
 
-* [What is the Metaverse?](learning-hub/what-is-the-metaverse.md)
+* [What is the Metaverse?](README.md)
 * [What is the Blockchain?](learning-hub/the-blockchain.md)
 * [What are NFTs?](learning-hub/nfts.md)
 * [What is Interoperability?](learning-hub/interoperability.md)
@@ -23,3 +19,7 @@
 * [How should I compare parcels?](metaverse-guides/how-should-i-compare-parcels.md)
 * [Which Metaverse should I play?](metaverse-guides/which-metaverse-should-i-play.md)
 * [What can I do with Land?](metaverse-guides/what-can-i-do-with-land.md)
+
+## The Company
+
+* [What is WeMeta?](<README (1).md>)
